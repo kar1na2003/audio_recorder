@@ -1,7 +1,3 @@
-Sure! Here is the full text of the README.md file:
-
----
-
 # PSoC 6 UART Audio Streaming over USB-UART
 
 This repository contains:
